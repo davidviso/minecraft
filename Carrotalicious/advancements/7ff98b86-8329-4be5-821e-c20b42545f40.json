@@ -257,6 +257,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/bone_meal": {
+    "criteria": {
+      "has_bone": "2021-05-06 18:15:08 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobblestone_stairs": {
     "criteria": {
       "has_cobblestone": "2020-11-02 20:10:54 -0500"
@@ -363,6 +369,7 @@
       "minecraft:birch_forest": "2020-11-02 20:03:17 -0500",
       "minecraft:river": "2020-11-02 19:44:05 -0500",
       "minecraft:wooded_mountains": "2020-11-02 19:47:07 -0500",
+      "minecraft:wooded_hills": "2021-05-06 18:17:36 -0400",
       "minecraft:giant_tree_taiga_hills": "2020-11-02 19:54:32 -0500",
       "minecraft:plains": "2020-11-02 20:04:51 -0500"
     },
@@ -512,6 +519,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/baked_potato_from_smoking": {
+    "criteria": {
+      "has_potato": "2021-05-06 18:11:27 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/pink_wool": {
     "criteria": {
       "has_white_wool": "2020-11-02 19:43:07 -0500"
@@ -534,6 +547,12 @@
   "minecraft:recipes/decorations/green_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2020-11-02 20:00:24 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato": {
+    "criteria": {
+      "has_potato": "2021-05-06 18:11:27 -0400"
     },
     "done": true
   },
@@ -618,6 +637,12 @@
   "minecraft:recipes/decorations/blue_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2020-11-02 20:00:24 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
+    "criteria": {
+      "has_potato": "2021-05-06 18:11:27 -0400"
     },
     "done": true
   },

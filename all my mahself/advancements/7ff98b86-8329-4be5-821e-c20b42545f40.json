@@ -538,7 +538,9 @@
       "minecraft:creeper": "2019-07-02 10:21:20 -0400",
       "minecraft:witch": "2019-07-03 11:14:31 -0400",
       "minecraft:husk": "2019-07-03 10:47:02 -0400",
+      "minecraft:enderman": "2020-11-24 21:29:40 -0500",
       "minecraft:zombie": "2019-07-01 22:53:04 -0400",
+      "minecraft:drowned": "2020-11-24 06:24:36 -0500",
       "minecraft:zombie_villager": "2019-07-03 22:16:50 -0400"
     },
     "done": false
@@ -882,6 +884,12 @@
   "minecraft:story/iron_tools": {
     "criteria": {
       "iron_pickaxe": "2019-07-01 23:39:49 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cartography_table": {
+    "criteria": {
+      "has_paper": "2020-11-25 23:23:28 -0500"
     },
     "done": true
   },
@@ -1435,6 +1443,7 @@
       "cooked_beef": "2019-07-04 13:03:04 -0400",
       "apple": "2019-07-01 22:41:18 -0400",
       "bread": "2019-07-01 23:35:23 -0400",
+      "rotten_flesh": "2020-11-25 20:32:42 -0500",
       "melon_slice": "2019-07-04 12:34:44 -0400",
       "cooked_chicken": "2019-07-03 22:14:13 -0400",
       "cooked_salmon": "2019-07-01 22:49:30 -0400"
@@ -2246,6 +2255,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/ol_betsy": {
+    "criteria": {
+      "shot_crossbow": "2020-11-24 06:30:03 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_andesite": {
     "criteria": {
       "has_stone": "2019-07-01 23:37:19 -0400"
@@ -2273,6 +2288,12 @@
   "minecraft:recipes/decorations/composter": {
     "criteria": {
       "has_wood_slab": "2020-11-23 00:34:46 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_nuggets": {
+    "criteria": {
+      "has_iron_nugget": "2020-11-24 06:11:17 -0500"
     },
     "done": true
   },
